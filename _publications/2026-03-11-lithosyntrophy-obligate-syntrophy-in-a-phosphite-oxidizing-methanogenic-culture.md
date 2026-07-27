@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Lithosyntrophy: Obligate syntrophy in a phosphite-oxidizing, methanogenic culture"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-11-lithosyntrophy-obligate-syntrophy-in-a-phosphite-oxidizing-methanogenic-culture
